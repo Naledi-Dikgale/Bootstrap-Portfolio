@@ -1,23 +1,24 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
 body {
-	font-family: Poppins, sans-serif;
+  font-family: Poppins, sans-serif;
 }
 
 nav {
-	margin: 25px 100px;
+  margin: 25px 100px;
 }
 
 .headline-container {
-	background-image: url("assets/Header\ desktop\ bg.png");
-	padding: 180px 260px 250px 260px;
+  background-image: url("assets/Header\ desktop\ bg.png");
+  padding: 180px 260px 250px 260px;
 }
 
 .cards-display {
-	background-color: #e5e5e5;
-	padding: 142px;
+  background-color: #e5e5e5;
+  padding: 142px;
 }
 
 .cards {
-	border: 1px solid #dfe1e6;
-	border-radius: 24px;
+  border: 1px solid #dfe1e6;
+  border-radius: 24px;
 }
